@@ -1,0 +1,33 @@
+body {
+	background-color: #d7f6f7;
+}
+h1 {
+	 text-align: center;  border: 3px solid #f2c618;
+}
+
+h3 {text-align: center;
+}
+h4 {text-align: center;
+
+}
+h5 {text-align: center;
+
+}
+h6 {text-align: center;
+
+}
+.boxhead a {text-decoration: none; color: #ff9c00; font-size: 20px;
+
+}
+.text {
+	text-decoration: underline;
+}
+.zachorkivanie {text-decoration: line-through;
+
+}
+.bold {
+	font-weight:bold;
+}
+.oblique {
+	font-style:oblique;
+}
