@@ -9,12 +9,12 @@
 
 [Урок 6.1](https://klimov-ivan.github.io/lesson_6.1/ "ДЗ") - Шапка сайта с навигацией
 
-[Урок 6.2](klimov-ivan.github.io/lesson_6.2/ "ДЗ")- Блочный элемент
+[Урок 6.2](https://klimov-ivan.github.io/lesson_6.2/ "ДЗ")- Блочный элемент
 
-[Урок 7](klimov-ivan.github.io/lesson_7/ "ДЗ") - Верстка первого макета
+[Урок 7](https://klimov-ivan.github.io/lesson_7/ "ДЗ") - Верстка первого макета
 
-[Урок 8](klimov-ivan.github.io/lesson_8/ "ДЗ") - Ускорение верстки в разы
+[Урок 8](https://klimov-ivan.github.io/lesson_8/ "ДЗ") - Ускорение верстки в разы
 
-[Урок 9](klimov-ivan.github.io/lesson_9/ "ДЗ") - Верстка при помощи Bootstrap 3
+[Урок 9](https://klimov-ivan.github.io/lesson_9/ "ДЗ") - Верстка при помощи Bootstrap 3
 
 [Урок 12](https://klimov-ivan.github.io/lesson-12/ "Домашка") - Работа с репозиторием GITHAB
