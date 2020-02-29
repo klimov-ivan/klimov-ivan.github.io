@@ -18,3 +18,5 @@
 [Урок 9](https://klimov-ivan.github.io/lesson_9/ "ДЗ") - Верстка при помощи Bootstrap 3
 
 [Урок 12](https://klimov-ivan.github.io/lesson-12/ "Домашка") - Работа с репозиторием GITHAB
+
+[Урок 13](https://klimov-ivan.github.io/lesson_13/src/ "Домашка") - В стиле Pixel Perfect
