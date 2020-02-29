@@ -1,0 +1,78 @@
+* {
+	box-sizing: border-box;
+}
+
+.box {
+	background-color: #ebf4f4;
+	width: 570px;
+	height: 570px;
+ position: absolute;
+ left: 50%;
+ margin-left: -285px;
+ padding: 100px 125px;
+}
+.form {
+	background-color: #fbfdfd;
+	width: 320px;
+	height: 370px;
+ border: 1px solid #cfdede;
+ position: absolute;
+ left: 50%;
+ margin-left: -160px;
+}
+.ribbon {
+	background-color: #01b3b3;
+	width: 150px;
+ height: 26px;
+ position: absolute;
+ margin-left: 29px;
+ margin-top: -4px;
+
+ }
+ .ribbon p {
+ 	font: 12px Arial;
+ 	font-weight: bold;
+ 	text-transform: uppercase;
+ 	color: #fbfdfd;
+ 	margin-left: 9px;
+ 	margin-top: 6px;
+ }
+ .form-btn {
+ 	margin: 53px 30px 10px 29px
+  
+ }
+
+ .form-btn input {
+ 	background-color: #ebf4f4;
+ 	border: 1px solid #cfdede;
+ 	width: 262px;
+ 	height: 32px;
+ 	font-weight:lighter;
+ 	font: 12px Arial;
+ 	font-style: italic;
+  padding-left: 12px;
+
+ }
+
+ .btn  {
+ 	display: block;
+ 	background-color: #01c0c0;
+ 	border: none;
+ 	margin-top: 34px;
+ 	width: 261px;
+ 	height: 45px;
+ 		font: 16px Arial;
+ 	font-weight: bold;
+ 	text-transform: uppercase;
+ 	color: #fbfdfd;
+ }
+
+.form-btn p {
+	font: 12px Arial;
+ font-weight: bold;
+
+}
+.email {
+	padding-bottom: 10px;
+}
+
