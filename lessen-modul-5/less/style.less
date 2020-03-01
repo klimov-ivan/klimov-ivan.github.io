@@ -1,0 +1,59 @@
+/* Базовые цвета */ 
+/* кнопки желтый */
+@btn-color: #fbb202;
+/* иконки зеленый */
+@icons-color: #55a612;
+/* текст черный */
+@text: #1a1820;
+/* предупреждающий красный крестики */
+@danger: #ff0000;
+/* фон былый с оттенком секции */
+@bg-light: #f5f5f5;
+/*  фон белый */
+@light: #fff;
+
+/* basic setting базовые настройки  */
+html {
+	 font-size: 10px;
+}
+.button {
+	background-color: @btn-color;
+	color: @light; 
+	padding: 1rem 3rem;
+	border-radius: 8px;
+	text-transform: uppercase;
+	border: none;
+}
+
+/* Typography заголовки секции  */
+section {
+	padding: 10rem 0;
+}
+
+
+/* main первый экран */
+main {
+	padding: 3rem 0; 
+}
+.header {
+	height: 7rem;
+}
+/* выравнивание кнопки по центру в строке */
+.wrap {
+	display: table;
+	width: 100%;
+	height: 7rem;
+	&-block {
+	display: table-cell;
+	vertical-align: middle;
+}
+}
+/* выравнивание ссылки телефон по центру в строке */
+.phone-link {
+	display: inline-block;
+	color: @text;
+	font-weight: 700;
+	font-size: 2rem;
+	height: 7rem;
+	line-height: 7rem;
+}
