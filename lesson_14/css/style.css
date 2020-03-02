@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap&subset=cyrillic');
+
+
+
+@font-face {
+    font-family: 'Bebas Neue Cyrillic';
+    src: url('../fonts/BebasNeueCyrillic.eot');
+    src: url('../fonts/BebasNeueCyrillic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BebasNeueCyrillic.woff2') format('woff2'),
+        url('../fonts/BebasNeueCyrillic.woff') format('woff'),
+        url('../fonts/BebasNeueCyrillic.ttf') format('truetype'),
+        url('../fonts/BebasNeueCyrillic.svg#BebasNeueCyrillic') format('svg');
+}
+
+
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../fonts/Lato-Bold.eot');
+    src: url('../fonts/Lato-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Lato-Bold.woff2') format('woff2'),
+        url('../fonts/Lato-Bold.woff') format('woff'),
+        url('../fonts/Lato-Bold.ttf') format('truetype'),
+        url('../fonts/Lato-Bold.svg#Lato-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+
+
+@import url('https://fonts.googleapis.com/css?family=Lobster&display=swap&subset=cyrillic');
+
+.resault-OpenSans {
+	font-family: 'Open Sans', sans-serif;
+}
+.resault-Bebas  {
+	font-family: 'Bebas Neue Cyrillic', sans-serif;
+}
+.resault-Lato {
+	font-family: 'Lato', sans-serif;
+}
+
+.resault-Lobster {
+	 font-family: 'Lobster', sans-serif;
+
+}   
+.text-box{
+	padding-top: 2rem;
+}
+.result {
+	margin-bottom: 0;
+	margin-top: 3rem;
+}
+.fonts {
+	font-size: 2rem;
+	text-align: center;
+	padding: 2rem;
+}
+small {
+	font-size: 1.3rem;
+}
