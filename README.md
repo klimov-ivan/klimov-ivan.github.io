@@ -30,3 +30,5 @@
 [Урок 15](https://klimov-ivan.github.io/lesson_15/index.html "Домашка")- Псевдоклассы и псевдоэлементы
 
 [Урок Модуль 5 Практика Часть 3](https://klimov-ivan.github.io/lesson_M_5_CH_3/index.html "Домашка")- Эффекты при наведении и адаптив первого экрана
+
+[Урок 16](https://klimov-ivan.github.io/lesson_16/index.html "Домашка")- Слайдер на сайте.
