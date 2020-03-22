@@ -32,3 +32,5 @@
 [Урок Модуль 5 Практика Часть 3](https://klimov-ivan.github.io/lesson_M_5_CH_3/index.html "Домашка")- Эффекты при наведении и адаптив первого экрана
 
 [Урок 16](https://klimov-ivan.github.io/lesson_16/index.html "Домашка")- Слайдер на сайте.
+
+[Урок Модуль 5 Практика Часть 4](https://klimov-ivan.github.io/lesson_M_5_CH_4/index.html "Домашка")- Верстка блока с преимуществами. Слайдер.
