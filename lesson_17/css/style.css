@@ -1,0 +1,14 @@
+.modal-content {
+	background-color: rgb(223, 76, 58);
+  
+  
+}
+
+
+.modal-header {
+    display: inline-block;
+    border-bottom: none;
+    }
+.modal-footer {
+	border-top: none;
+}   
