@@ -36,3 +36,5 @@
 [Урок Модуль 5 Практика Часть 4](https://klimov-ivan.github.io/lesson_M_5_CH_4/index.html "Домашка")- Верстка блока с преимуществами. Слайдер.
 
 [Урок 17](https://klimov-ivan.github.io/lesson_17/ "Домашка")- Всплывающие окна.
+
+[Урок Модуль 5 Практика Часть 5](https://klimov-ivan.github.io/lesson_M_5_CH_5/ "Домашка")- Верстка всплывающих окон на сайте.
