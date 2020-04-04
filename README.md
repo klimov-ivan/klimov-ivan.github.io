@@ -38,3 +38,5 @@
 [Урок 17](https://klimov-ivan.github.io/lesson_17/ "Домашка")- Всплывающие окна.
 
 [Урок Модуль 5 Практика Часть 5](https://klimov-ivan.github.io/lesson_M_5_CH_5/ "Домашка")- Верстка всплывающих окон на сайте.
+
+[Урок 18](https://klimov-ivan.github.io/lesson_18/ "Домашка")- Табы и аккордеон на сайте.
