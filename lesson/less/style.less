@@ -1,0 +1,63 @@
+/* fonts fameli подключение шрифтов */
+@font-face {
+    font-family: 'ProximaNova_bold';
+    src: url('../fontsProximaNova-Bold.eot');
+    src: url('../fontsProximaNova-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fontsProximaNova-Bold.woff2') format('woff2'),
+        url('../fontsProximaNova-Bold.woff') format('woff'),
+        url('../fontsProximaNova-Bold.ttf') format('truetype'),
+        url('../fontsProximaNova-Bold.svg#ProximaNova-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ProximaNova_reg';
+    src: url('../fontsProximaNovaCond-Regular.eot');
+    src: url('../fontsProximaNovaCond-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fontsProximaNovaCond-Regular.woff2') format('woff2'),
+        url('../fontsProximaNovaCond-Regular.woff') format('woff'),
+        url('../fontsProximaNovaCond-Regular.ttf') format('truetype'),
+        url('../fontsProximaNovaCond-Regular.svg#ProximaNovaCond-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+  font-family: 'MyriadPro-Regular';
+  src: url('../fonts/MyriadPro-Regular.eot');
+  src: local('☺'), url('../fonts/MyriadPro-Regular.woff') format('woff'), 
+  url('../fonts/MyriadPro-Regular.ttf') format('truetype'), 
+  url('../fonts/MyriadPro-Regular.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  }
+
+.reg() {
+	font-family: 'ProximaNova_reg', sans-serif;
+}
+.bold() {
+	font-family: 'ProximaNova_bold', sans-serif;
+}
+.Regular() {
+  font-family: 'MyriadPro-Regular' sans-serif;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  
+  margin: 0;
+}
+.section {
+  min-height: 100vh;
+  text-align: center;
+  width: 100%;
+  display: table;
+  
+  
+}
+.wrap-block {
+  display: table-cell;
+  vertical-align: middle;
+  color: #ffff;
+}
