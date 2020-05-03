@@ -52,3 +52,5 @@
 [Урок Модуль 6 Практика Часть 8](https://klimov-ivan.github.io/lesson_M_6_CH_8/ "Домашка")- Доверстали блок с отзывами.
 
 [Урок 21](https://klimov-ivan.github.io/lesson_21/ "Домашка")- Parallax эффект для сайта.
+
+[Урок Модуль 6 Практика Часть 9](https://klimov-ivan.github.io/lesson_M_6_CH_9/ "Домашка")- Верстаем схему работы и все включено.
