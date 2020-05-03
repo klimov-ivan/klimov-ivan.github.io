@@ -50,3 +50,5 @@
 [Урок 20](https://klimov-ivan.github.io/lesson_20/ "Домашка")- Видео-фон на сайте.
 
 [Урок Модуль 6 Практика Часть 8](https://klimov-ivan.github.io/lesson_M_6_CH_8/ "Домашка")- Доверстали блок с отзывами.
+
+[Урок 21](https://klimov-ivan.github.io/lesson_21/ "Домашка")- Parallax эффект для сайта.
