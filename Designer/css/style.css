@@ -1,0 +1,136 @@
+
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+body {
+  background: url(../img/bg.jpg) no-repeat center;
+ background-size: 100%;
+  font-family: 'a_lcdnova', sans-serif;
+  
+
+  
+}
+/* Отключение подчеркивания ссылок */
+a:hover {
+  text-decoration: none;
+}
+/* Отключение обводки для кнопок, ссылок, полей */
+button:focus,
+input:focus,
+a:focus {
+  outline: none;
+}
+.section {
+  
+  margin-top: 80px;
+  position: relative;
+  text-align: center;
+
+}
+  
+  
+}
+.wrap-block {
+  
+}
+h1 {
+
+   font-size: 91px;
+   color: rgb(57, 59, 64);
+   line-height: 0.25;
+}
+h2, span {
+  font-size: 48px;
+  color: rgb(57, 59, 64);
+  line-height: 1.25;
+  margin: 20px 0;
+}
+
+  
+.titel {
+  margin-top: 60px;
+  margin-left: 55px;
+}
+h3 {
+ font-size: 48px;
+  color: rgb(57, 59, 64);
+  line-height: 1.25;
+  margin: 0; 
+}
+.ban {
+  margin-left: -20px;
+
+}
+button {
+  display: inline-block;
+position: relative;
+ width: 26rem;
+  height: 7rem;
+  bottom: -90px;
+  margin-left: 100px;
+  border-radius: 5px;
+  border: none; 
+ 
+}
+.btn {
+  position: relative;
+  width: 30rem;
+  height: 10rem;
+   bottom: 12px;
+   left: -30px;
+   
+}
+
+span {
+  position: relative;
+  top:-92px;
+
+
+}
+.photo {
+  display: inline-block;
+  position: absolute;
+ width: 580px;
+  height: 400px;
+  right: 5rem;
+   top: 3rem;
+}
+img {
+  width: 100%;
+  height: 100%;
+  
+}
+@media (max-width: 991px) {
+h1 {
+
+   font-size: 91px;
+   line-height: 0.9;
+}
+}
+@media (max-width: 767px) {
+h1 {
+
+   font-size: 71px;
+   line-height: 1;
+}
+body {
+ background-size: 100%;
+ text-align: center;
+
+  
+}
+}
+@media (max-width: 360px) {
+h1 {
+
+   font-size: 51px;
+   line-height: 1;
+}
+body {
+ background-size: 100%;
+ text-align: center;
+
+  
+}
+}
