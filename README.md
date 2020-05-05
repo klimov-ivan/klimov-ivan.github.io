@@ -54,3 +54,5 @@
 [Урок 21](https://klimov-ivan.github.io/lesson_21/ "Домашка")- Parallax эффект для сайта.
 
 [Урок Модуль 6 Практика Часть 9](https://klimov-ivan.github.io/lesson_M_6_CH_9/ "Домашка")- Верстаем схему работы и все включено.
+
+[Урок 22](https://klimov-ivan.github.io/lesson_22/ "Домашка")- Гео-карты для сайта.
