@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
+body {
+	font-family: Open Sans;
+	scroll-behavior: none;
+}
+.map {
+	position: relative;
+	top:-43rem;
+	
+}
+.container {
+	position: relative;
+	padding-right: 0;
+ padding-left: 0;
+	margin-left: ;
+z-index: 2;
+}
+.address {
+	text-align: center;
+	background-color: #c60b0b;
+	width: 400px;
+	height: 430px;
+	padding: 40px 0 0px;
+	font-size: 18px;
+	font-weight: 400;
+}
+h3 {
+color: #ffff;
+font-size: 30px;
+font-weight: 400;
+}
+ .col-md-4 {
+	padding: 0;
+}
+
+p {
+	text-align: center;
+	color: #ffff; 
+
+}
+.address p {
+	margin-top: 30px;
+	margin-right:
+
+	
+}
+footer {
+	position: relative;
+	padding-top: 20px;
+	text-align: center;
+		font-size: 16px;
+		font-weight: 400;
+
+
+}
+a {
+	display: inline-block;
+	margin-top: 25px;
+	text-decoration: underline;
+	color: #ffff;
+}
+.logo {
+	text-align: left;
+}
+img {
+	vertical-align: top;
+}
+.title {
+	display: block;
+	position: relative;
+text-align: right;
+
+		
+}
+.tel {
+	margin-bottom: 0;
+	font-weight: bold;
+	color: #333333;
+	text-align: right;
+	font-size: 22px;
+
+}
+span {
+display: inline-block;
+
+	color: #333333;
+}
+@media (max-width: 767px) {
+.logo {
+	text-align: center;
+}
+
+}
+
+@media (max-width: 991px) {
+	.logo {
+	text-align: center;
+}
+.tel {
+	text-align: center;
+}
+.title {
+	text-align: center;
+}
+span {
+	margin-bottom: 15px;
+}
+}
+@media (max-width: 320px) {
+
+}
+}
+
