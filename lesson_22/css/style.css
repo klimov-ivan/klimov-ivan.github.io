@@ -60,7 +60,9 @@ a {
 	color: #ffff;
 }
 .logo {
+	position: absolute;
 	text-align: left;
+	left: 0;
 }
 img {
 	vertical-align: top;
@@ -93,8 +95,9 @@ display: inline-block;
 }
 
 @media (max-width: 991px) {
-	.logo {
-	text-align: center;
+   .logo {
+	 position: relative;
+	 text-align: center;
 }
 .tel {
 	text-align: center;
